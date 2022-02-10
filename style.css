@@ -1,0 +1,42 @@
+h1 {
+	color:#FFFFFF ;
+	font-size: 30px;
+	line-height: 43px;
+
+
+}
+
+body {
+	background-color: #0865DE;
+}
+a {
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 18px;
+	text-decoration: none;
+}
+p {
+	color: #D1D1D1;
+	width: 186px;
+	height: 120px;
+	font: normal normal bold 14px/33px Brandon Grotesque;
+		
+}
+
+.different-p {
+	color: #D1D1D1;
+	font-size: 25px;
+	line-height:44px;
+	width: 826px;
+	
+}
+h3 {
+	color: #FFFFFF;
+	width: 141px;
+	height: 36px;
+	font: normal normal bold 25px/30px Brandon Grotesque;
+
+}
+ul {
+	list-style-type: none ;
+}
